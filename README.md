@@ -2,7 +2,7 @@
 A task manager app built with HTML/CSS and JavaScript that allows the user to create and delete tasks which are organized by priority.
 
 <!-- Live Link -->
-[Live Demo](https://storage.googleapis.com/dior-todo-list/index.html)](https://storage.googleapis.com/dior-todo-list/index.html)
+Live Demo Link: https://storage.googleapis.com/dior-todo-list/index.html
 
 ## 📌 Features
 * **Feature 1:** Add task by priority/category level
