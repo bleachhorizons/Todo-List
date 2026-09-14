@@ -9,7 +9,7 @@ Live Demo Link: https://storage.googleapis.com/dior-todo-list/index.html
 * **Feature 2:** Check off or delete task
 * **Feature 3:** Edit and save task automatically
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Used
 * HTML/CSS and JavaScript
 
 ## 📸 Screenshot
