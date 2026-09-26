@@ -17,7 +17,7 @@ Live Demo Link: https://storage.googleapis.com/dior-todo-list/index.html
 ![Project Dashboard](/Screenshot.png)
 
 ## ⚙️ Getting Started
-Download all files and open "index.html"
+Download all files together and open "index.html"
 
 ## 🤝 Contact
 LinkedIn: [https://www.linkedin.com/in/edore-oseragbaje/](https://www.linkedin.com/in/edore-oseragbaje/)
